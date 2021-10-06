@@ -1,0 +1,18 @@
+p{
+    font-size: large; 
+    font-weight: bolder;
+     border: 1px solid black;
+     width: 50%;
+    background-color: white;
+    padding: 20px;
+    
+}
+#speed
+{
+    background-color:aquamarine; 
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    font-size: large;
+}
